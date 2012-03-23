@@ -1,0 +1,8 @@
+[Desktop Entry]
+Charset=
+Hidden=false
+Keys=skroutz
+Name=
+Query=http://www.skroutz.gr/search?keyphrase=\\{@}
+ServiceTypes=SearchProvider
+Type=Service

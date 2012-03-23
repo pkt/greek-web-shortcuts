@@ -1,0 +1,9 @@
+This package will install some additional searchproviders for greek sites,
+to use with Konqueror and KRunner.
+
+Searchproviders are:
+
+  skroutz:
+      Search for prices using skroutz.gr
+      e.g., shop:nexus => http://www.skroutz.gr/search?keyphrase=nexus
+

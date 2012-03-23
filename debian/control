@@ -1,0 +1,19 @@
+Source: greek-web-shortcuts
+Section: kde
+Priority: optional
+Maintainer: Pantelis Koukousoulas <pktoss@gmail.com>
+Build-Depends: debhelper (>= 8), kdelibs-bin
+Standards-Version: 3.9.3
+Vcs-Git: git://github.com/squibbylinux/greek-web-shortcuts
+Vcs-Browser: https://github.com/squibbylinux/greek-web-shortcuts
+
+Package: greek-web-shortcuts
+Section: kde
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: rekonq | konqueror
+Description: web shortcuts for Greek sites
+ The main shortcuts are:
+  skroutz: check prices with skroutz.gr
+ .
+ See /usr/share/doc/greek-web-shortcuts/README for a full list
