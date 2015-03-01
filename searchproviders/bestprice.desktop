@@ -1,0 +1,8 @@
+[Desktop Entry]
+Charset=
+Hidden=false
+Keys=bestprice
+Name=
+Query=http://www.bestprice.gr/search?q=\\{@}
+ServiceTypes=SearchProvider
+Type=Service
