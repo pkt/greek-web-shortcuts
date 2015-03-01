@@ -1,0 +1,8 @@
+[Desktop Entry]
+Charset=utf8
+Hidden=false
+Keys=phone
+Name=Ιδιοκτήτης Τηλ. Αριθμού
+Query=http://www.11888.gr/list-names?_wpType=number&_wpPhone=\\{@}
+ServiceTypes=SearchProvider
+Type=Service
