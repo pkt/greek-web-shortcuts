@@ -1,0 +1,8 @@
+[Desktop Entry]
+Charset=utf8
+Hidden=false
+Keys=gwp
+Name=Ελληνικός Τηλεφωνικός Κατάλογος
+Query=http://www.11888.gr/home?_sm=wp
+ServiceTypes=SearchProvider
+Type=Service
