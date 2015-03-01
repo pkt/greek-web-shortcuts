@@ -1,0 +1,8 @@
+[Desktop Entry]
+Charset=utf8
+Hidden=false
+Keys=syn
+Name=Ελληνικός Θησαυρός Συνωνύμων
+Query=http://www.openthesaurus.gr/synonyme/\\{@}
+ServiceTypes=SearchProvider
+Type=Service
